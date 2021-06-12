@@ -26,9 +26,9 @@
 <br>
 <br>
 <p align="center">
-<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="320px" height="230"/>
-<img alt="C++" src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" width="320px" height="230"/>
-<img alt="HTML5" src="https://commandlinetechnologies.com/wp-content/uploads/2021/02/All-about-HTML-Full-form-of-HTML-Structure-of-HTML-Application-of-HTML-Online-HTML-course-CommandLine-Technologies.png" width="320px" height="230"/>
+<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="100px" height="100"/>
+<img alt="C++" src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" width="100px" height="100"/>
+<img alt="HTML5" src="https://commandlinetechnologies.com/wp-content/uploads/2021/02/All-about-HTML-Full-form-of-HTML-Structure-of-HTML-Application-of-HTML-Online-HTML-course-CommandLine-Technologies.png" width="100px" height="100"/>
 
 </p>
 
