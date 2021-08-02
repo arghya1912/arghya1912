@@ -5,13 +5,8 @@
 </a>
 
 
-<!--- 🔭 I’m currently working on **MERN STACK , FLUTTER**-->
 
-- 🌱 I’m currently learning **CONCEPTS ON DATA STRUCTURES AND ALGORITHMS**
-
-- 👯 I’m looking to collaborate on **[LinkedIn- Arghyadip Sengupta](https://www.linkedin.com/in/arghyadip-sengupta-497292207/)**
-
-- 🤝 I’m looking for help with **Open Source Contributions**
+- 👯 Here's my Linkedin Profile : **[LinkedIn- Arghyadip Sengupta](https://www.linkedin.com/in/arghyadip-sengupta-497292207/)**
 
 - 📫 How to reach me **arghyadipsengupta@gmail.com**
 
